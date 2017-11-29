@@ -1,0 +1,2 @@
+D:\MP\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+D:\MP\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
